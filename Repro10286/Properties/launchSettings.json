@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Repro10286 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Repro10286 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
